@@ -2,47 +2,41 @@
 
 # outputs are in the follwing way
 
-Q1_home.png
-Q2_menu.png
-Q3_get_by_id.png
-Q4_orders.png
-Q5_summary.png
-Q6_validation_error.png
-Q7_helper function.png
-Q8_post_order.png
-Q9_with_delivery_charge.png
-Q9_pickup.png
-Q10_Menu_filter_logic.png
+- Q1_home.png
+- Q2_menu.png
+- Q3_get_by_id.png
+- Q4_orders.png
+- Q5_summary.png
+- Q6_validation_error.png
+- Q7_helper function.png
+- Q8_post_order.png
+- Q9_with_delivery_charge.png
+- Q9_pickup.png
+- Q10_Menu_filter_logic.png
+- Q11_add_item.png
+- Q12_update_item.png
+- Q13_delete_item.png
+- Q14_cart_add q1.png
+- Q14_cart_add_1_more_q.png
+- Q14_Get_cart_total_amount.png
 
-Q11_add_item.png
-Q12_update_item.png
-Q13_delete_item.png
-Q14_cart_add q1.png
-Q14_cart_add_1_more_q.png
-Q14_Get_cart_total_amount.png
+- Q15_checkout_with_details.png
+- Q15_empty_checkout.png
 
-Q15_checkout_with_details.png
-Q15_empty_checkout.png
+- Q16_search_by_category.png
+- Q16_search_by_category_case_insensitive.png
+- Q16_search_by_name.png
+- Q16_search_by_name_case_insensitive.png
 
-Q16_search_by_category.png
-Q16_search_by_category_case_insensitive.png
-Q16_search_by_name.png
-Q16_search_by_name_case_insensitive.png
+- Q17_sort_default.png
+- Q17_sort_category_desc.png
 
+- Q18_pagination_deafult.png
+- Q18_pagination_2_limit_3.png
 
-
-
-Q17_sort_default.png
-Q17_sort_category_desc.png
-
-
-Q18_pagination_deafult.png
-Q18_pagination_2_limit_3.png
-
-Q19_order_search_name.png
-Q19_order_search_sort_by.png
-
-Q20_browse.png
+- Q19_order_search_name.png
+- Q19_order_search_sort_by.png
+- Q20_browse.png
 
 A complete backend system built using **FastAPI** as part of my internship training.
 This project simulates a real-world food delivery application with menu management, cart system, order processing, and advanced API features.
