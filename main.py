@@ -1,5 +1,5 @@
 # all backend using FastAPI
-# always use this to run anywhere nre proj->  python -m uvicorn main:app --reload
+# always use this to run anywhere any proj->  python -m uvicorn main:app --reload
 
 
 from fastapi import FastAPI,Query, Response,status
